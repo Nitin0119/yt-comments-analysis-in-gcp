@@ -1,4 +1,4 @@
-youtube_api_key: "AIzaSyDS2LuOHORLwXwCohjj5ytlX_nYuKEKeYQ" 
+youtube_api_key: "<<Youtube api key generated through youtbe api in gcp>>" 
 channel_id: "UCBJycsmduvYEL83R_U4JriQ" 
 max_results: 50 
 pubsub_topic: "yt-comments-topic" 
