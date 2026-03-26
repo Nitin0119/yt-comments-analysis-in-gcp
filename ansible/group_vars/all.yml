@@ -1,0 +1,4 @@
+project_id: "yt-comments-analysis-491411"
+region: "us-central1"
+cf_sa_email: "cloud-fn-sa@yt-comments-analysis-491411.iam.gserviceaccount.com"
+bucket: "yt-raw-comments-491411"

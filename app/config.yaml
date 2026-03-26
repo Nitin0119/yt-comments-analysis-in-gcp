@@ -1,0 +1,4 @@
+youtube_api_key: "AIzaSyDS2LuOHORLwXwCohjj5ytlX_nYuKEKeYQ" 
+channel_id: "UCBJycsmduvYEL83R_U4JriQ" 
+max_results: 50 
+pubsub_topic: "yt-comments-topic" 
