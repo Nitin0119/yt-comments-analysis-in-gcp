@@ -7,7 +7,7 @@
         format: zip 
 
     - name: Upload ZIP to GCS bucket 
-      command: gsutil cp /tmp/yt_ingestion.zip gs://yt-cf-source-{{ project_id }}/yt_ingestion.zip 
+      command: gcloud storage cp /tmp/yt_ingestion.zip gs://yt-cf-source-yt-comments-analysis-491411/ 
 
     - name: Deploy Cloud Function
       command: >
