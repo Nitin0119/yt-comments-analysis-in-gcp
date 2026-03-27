@@ -18,8 +18,7 @@ dag = DAG(
     default_args=default_args,
     schedule_interval='@hourly',
     catchup=False,
-    description='YouTube Comments ETL + Sentiment Analysis'
-)
+    description='YouTube Comments ETL + Sentiment Analysis')
 
 # Step 1: Trigger the ingestion Cloud Function (public HTTPS call)
 def trigger_ingest_fn():
